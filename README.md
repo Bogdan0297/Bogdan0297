@@ -1,9 +1,6 @@
 <h1>Hi, I'm Bogdan! <br/></h1>
 <p> I am graduate of QA Manual course by Hillel IT School. I aspire to get Junior QA position and help to make your product better. <p/p>
 
-<h2>📝 My resume:</h2>
-<a href = "https://github.com/Bogdan0297/Bogdan-Petrusyov/blob/bogdan/CV_Bogdan_Petrusyov_QA_Engineer.pdf"> Resume link </a>
-
 <h2>⚡ My skills</h2>
 
 - English - Upper Intermediate (B2)
